@@ -4,3 +4,5 @@
 2. sudo apt-get install python3-pil python3-pil.imagetk
 
 ## Result :
+
+![alt text](https://github.com/EnvericRAYMOND/maree/blob/main/result.png)
